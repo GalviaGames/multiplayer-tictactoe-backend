@@ -6,4 +6,4 @@ Currently deployed in Railway.app.
 
 ---
 
-🎮️🕹️ Want to learn Defold? Check out our step-by-step [beginner tutorial series](https://www.youtube.com/playlist?list=PLYWnk-ACIeRi61SDWS62NQjN9wydnzWy7) where we will the classic game of Pong in Defold! ️🕹️🎮️
+🎮️🕹️ Want to learn Defold? Check out our step-by-step [beginner tutorial series](https://bit.ly/3EvMZZX) where we will the classic game of Pong in Defold! ️🕹️🎮️
